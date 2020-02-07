@@ -11,4 +11,4 @@ The file SalesDaily.csv shows the quantity of each item sold on a day and the to
 The file SalesMonthly.csv shows the quantity of each item sold in a Month and the total revenue in that month
 The file StockCheck.csv would contain those items whose stock drops below the threshold set in the code (=10)
 
-To quickly test the SalesDaily and SalesMonthly functionalities, uncomment the files adding a day and month in the constructor of the ClientHandler class (lines 132, 133)
+To quickly test the SalesDaily and SalesMonthly functionalities, uncomment the files adding a day and month in the constructor of the ClientHandler class in Server.java (lines 132, 133)
